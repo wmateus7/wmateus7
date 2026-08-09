@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus | Olá, eu sou Mateus</h1>
 
-<h3 align="center">Full Stack Developer 🇧🇷</h3>
-
 <p align="center">
  Full Stack Developer | PHP • Laravel • CodeIgniter • React | REST APIs
 </p>
