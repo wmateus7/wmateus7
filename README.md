@@ -96,14 +96,6 @@ I'm preparing additional projects using **Laravel, REST APIs, JavaScript and Rea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wmateus7&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmateus7&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Currently
 
