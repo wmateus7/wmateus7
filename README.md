@@ -89,13 +89,15 @@ Gosto de resolver problemas reais de negócio, melhorar sistemas existentes e de
 
 🇧🇷 Aplicação web desenvolvida em PHP puro para demonstrar arquitetura MVC, autenticação, sessões, prepared statements e operações CRUD.
 
-> 🚧 Currently in development | Em desenvolvimento
+### 🔹 [PHP MVC Client Management](https://github.com/wmateus7/php-mvc-client-management)
 
-### 🔹 More projects coming soon...
+`PHP` `PDO` `MySQL` `MVC` `OOP` `Bootstrap`
 
-Additional projects using **Laravel, REST APIs, JavaScript and React** will be added here.
+🇺🇸 Client management application built with pure PHP using MVC architecture, authentication, sessions, prepared statements and CRUD operations.
 
----
+🇧🇷 Aplicação de gerenciamento de clientes desenvolvida em PHP puro utilizando arquitetura MVC, autenticação, sessões, prepared statements e operações CRUD.
+
+🔗 **[View Project | Ver Projeto](https://github.com/wmateus7/php-mvc-client-management)**
 
 ## 📚 Currently | Atualmente
 
