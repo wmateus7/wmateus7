@@ -98,6 +98,11 @@ Gosto de resolver problemas reais de negócio, melhorar sistemas existentes e de
 🇧🇷 Aplicação de gerenciamento de clientes desenvolvida em PHP puro utilizando arquitetura MVC, autenticação, sessões, prepared statements e operações CRUD.
 
 🔗 **[View Project | Ver Projeto](https://github.com/wmateus7/php-mvc-client-management)**
+🇺🇸 RESTful API developed with Laravel to demonstrate Sanctum authentication, user-scoped authorization, Eloquent relationships, CRUD operations, MySQL integration, and OpenAPI/Swagger documentation.
+
+🇧🇷 API RESTful desenvolvida com Laravel para demonstrar autenticação com Sanctum, autorização por usuário, relacionamentos Eloquent, operações CRUD, integração com MySQL e documentação OpenAPI/Swagger.
+
+### 🔹 [TaskFlow Backend API](https://github.com/wmateus7/taskflow-backend)
 
 ## 📚 Currently | Atualmente
 
