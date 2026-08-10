@@ -103,7 +103,7 @@ Gosto de resolver problemas reais de negócio, melhorar sistemas existentes e de
 🇧🇷 API RESTful desenvolvida com Laravel para demonstrar autenticação com Sanctum, autorização por usuário, relacionamentos Eloquent, operações CRUD, integração com MySQL e documentação OpenAPI/Swagger.
 
 ### 🔹 [TaskFlow Backend API](https://github.com/wmateus7/taskflow-backend)
-
+`PHP-LARAVEL`  `MySQL` `MVC` `OOP` `Bootstrap`
 ## 📚 Currently | Atualmente
 
 * 🧠 Strengthening software architecture and back-end development skills
