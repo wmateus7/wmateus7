@@ -1,57 +1,52 @@
-# 👨‍💻 Mateus | Full Stack Developer
+<h1 align="center">Hi 👋, I'm Mateus | Olá, eu sou o Mateus</h1>
 
-## 👨‍💻 About Me | Sobre mim
+<h3 align="center">Full Stack Developer 🇧🇷</h3>
 
-### 🇺🇸 English
+<p align="center"> PHP • Laravel • CodeIgniter • JavaScript • React • MySQL • SQL Server </p>
 
-I'm a **Full Stack Developer with 6 years of experience** building, maintaining, and improving web applications.
+👨‍💻 About Me | Sobre mim
+🇺🇸 English
 
-My main experience is with **PHP and JavaScript**, working across back-end, front-end, relational databases, REST APIs, integrations, and legacy systems.
+I'm a Full Stack Developer with 6 years of experience building, maintaining, and improving web applications.
+
+My main experience is with PHP and JavaScript, working across back-end, front-end, relational databases, REST APIs, integrations, and legacy systems.
 
 I enjoy solving real business problems, improving existing systems, and building maintainable solutions.
 
-### 🇧🇷 Português
+🇧🇷 Português
 
-Sou **Desenvolvedor Full Stack com 6 anos de experiência** no desenvolvimento, manutenção e evolução de aplicações web.
+Sou Desenvolvedor Full Stack com 6 anos de experiência no desenvolvimento, manutenção e evolução de aplicações web.
 
-Minha principal experiência é com **PHP e JavaScript**, atuando em back-end, front-end, bancos de dados relacionais, APIs REST, integrações e sistemas legados.
+Minha principal experiência é com PHP e JavaScript, atuando em back-end, front-end, bancos de dados relacionais, APIs REST, integrações e sistemas legados.
 
 Gosto de resolver problemas reais de negócio, melhorar sistemas existentes e desenvolver soluções de fácil manutenção.
 
----
+🛠️ Tech Stack
+Back-end
 
-## 🛠️ Tech Stack
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </p>
 
-### Back-end
+Front-end
 
-`PHP` `Laravel` `CodeIgniter` `Node.js` `C#` `REST APIs`
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232DA?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p>
 
-### Front-end
+Databases
 
-`JavaScript` `React` `React Native` `HTML` `CSS` `Bootstrap` `jQuery`
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
 
-### Databases
+Tools & Practices
 
-`MySQL` `SQL Server`
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MVC-Architecture-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge" /> </p>
 
-### Tools & Practices
-
-`Git` `GitHub` `MVC` `OOP` `Eloquent ORM` `PDO` `Clean Code` `DRY` `KISS`
-
----
-
-## 🚀 Experience | Experiência
-
-* Full stack web application development
-* REST API development and integrations
-* Relational databases and SQL
-* Business-oriented systems
-* Legacy system maintenance and modernization
-* Debugging and production issue resolution
-* MVC and Object-Oriented Programming
-* Clean Code, DRY and KISS principles
-
----
+🚀 Experience | Experiência
+Full stack web application development
+REST API development and integrations
+Relational databases and SQL
+Business-oriented systems
+Legacy system maintenance and modernization
+Debugging and production issue resolution
+MVC and Object-Oriented Programming
+Clean Code, DRY and KISS principles
 
 # 📌 Featured Projects | Projetos em destaque
 
