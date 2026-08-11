@@ -61,6 +61,15 @@ Clean Code, DRY and KISS principles
 🔗 **[View Project | Ver Projeto](https://github.com/wmateus7/taskflow-backend)**
 
 ---
+## 🔹 TaskFlow Frontend
+
+`React` `Tailwind CSS`
+
+🇺🇸 **Frontend portfolio project** developed with React and Tailwind CSS, featuring responsive design, client-side routing with React Router, protected routes, token-based authentication integration, reusable components, controlled forms, REST API consumption, loading and error states, and environment-based configuration with Vite.
+
+🇧🇷 **Projeto de portfólio front-end** desenvolvido com React e Tailwind CSS, utilizando design responsivo, roteamento no cliente com React Router, rotas protegidas, integração com autenticação por token, componentes reutilizáveis, formulários controlados, consumo de API REST, estados de carregamento e erro e configuração por variáveis de ambiente com Vite.
+
+🔗 **[View Project | Ver Projeto](https://github.com/wmateus7/taskflow-frontend)**
 
 ## 🔹 PHP MVC Client Management
 
